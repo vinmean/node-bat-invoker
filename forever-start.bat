@@ -1,0 +1,1 @@
+forever --watch --watchDirectory C:\DIY\watcher ./bin/www
